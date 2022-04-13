@@ -1,15 +1,15 @@
-first step
+# first step
 
-# git clone 
+ git clone https://github.com/muhammadrafnas/dealsdry.git
 
-second step 
+# second step 
  
- # npm install
+ npm install
  
  
- third 
+ # third 
  
- # npm run dev
+  npm run dev
  
  
  
